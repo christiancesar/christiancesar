@@ -1,4 +1,4 @@
-# Christian Cesar ©️
+# Christian Cesar
 
 
 
