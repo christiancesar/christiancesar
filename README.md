@@ -2,8 +2,11 @@
 
 Olá meu nome é Christian Cesar, estou terminando o curso de graduação de Bacharelado  Sistemas de Informação na UFMT/UFR. Trabalhei 1 ano e meio como desenvolvedor com as stacks listadas da seção [worked](#worked) e a 2 anos estou [estudando e desenvolvendo](#studying-and-developing) projetos pessoais e bootcamps nas stacks abaixo.
 
+<div align="center" style="display: flex;">
+  
+  > <a href="https://ufr.edu.br"/> <img width="20px"  src="./assets/university-solid.svg"/> Universidade Federal de Mato Grosso(UFMT) -> Universidade Federal de Rondonópolis(UFR) </a>
 
-> <a href="https://ufr.edu.br"/> <img width="20px"  src="./assets/university-solid.svg"/> Universidade Federal de Mato Grosso(UFMT) -> Universidade Federal de Rondonópolis(UFR) </a>
+</div>
 
 <div align="center" style="display: flex;">
   <a href="https://www.linkedin.com/in/christian-cesar-rodrigues-78240696/" target="_blank">LinkedIn </a> |
