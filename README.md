@@ -22,7 +22,8 @@ Iniciei em 2020 o curso de inglês na [WiseUp](https://wiseup.com/), porém susp
 
 
 
----
+<br/>
+
 ## Studying and Developing :brain:
 <div style="display: inline_block">
   <img width="30px"  src="./assets/linux.svg"/>  
@@ -52,7 +53,8 @@ Iniciei em 2020 o curso de inglês na [WiseUp](https://wiseup.com/), porém susp
 
 </div>
 
----
+<br/>
+
 ## Worked :beginner:
 
 <div style="display: inline_block">
@@ -62,7 +64,8 @@ Iniciei em 2020 o curso de inglês na [WiseUp](https://wiseup.com/), porém susp
   <img width="30px"  src="./assets/atlassianbitbucket.svg"/>  
 </div>  
 
----
+<br/>
+
 
 ## Statatics :bar_chart:
 <div>
