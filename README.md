@@ -1,9 +1,12 @@
 # Christian Cesar :copyright:
 <link rel="stylesheet" href="github-markdown.css" />
 
- > <a href="https://ufr.edu.br"/> <img width="20px"  src="./assets/university-solid.svg"/> Universidade Federal de Mato Grosso(UFMT) -> Universidade Federal de Rondonópolis(UFR) </a>
- 
-  > <a href="https://www.figma.com/@christiancesar"> <img width="20px"  src="./assets/figma.svg"/> Universidade Federal de Mato Grosso </a>
+> <a href="https://www.linkedin.com/in/christian-cesar-rodrigues-78240696/"> <img width="20px"  src="./assets/linkedin.svg"/> LinkedIn </a>
+ >
+> <a href="https://www.figma.com/@christiancesar"> <img width="20px"  src="./assets/figma.svg"/> Projects Figma </a>
+> 
+> <a href="https://ufr.edu.br"/> <img width="20px"  src="./assets/university-solid.svg"/> Universidade Federal de Mato Grosso(UFMT) -> Universidade Federal de Rondonópolis(UFR) </a>
+
 
 
 
