@@ -9,22 +9,23 @@
 
 ## Studying and Developing
 <div style="display: inline_block">
-  <img width="50px"  src="./assets/linux.svg"/>  
+  <img width="30px"  src="./assets/linux.svg"/>  
 
   ### backend
 
-  <img width="50px"  src="./assets/nodejs.svg"/>  
-  <img width="50px"  src="./assets/docker.svg"/>  
-  <img width="50px"  src="./assets/aws.svg"/>  
+  <img width="30px"  src="./assets/nodejs.svg"/>  
+  <img width="30px"  src="./assets/javascript.svg"/>
+  <img width="30px"  src="./assets/docker.svg"/>  
+  <img width="30px"  src="./assets/aws.svg"/>  
 
   ### frontend
-  <img width="50px"  src="./assets/figma.svg"/>  
-  <img width="50px"  src="./assets/netlify.svg"/>  
-  <img width="50px"  src="./assets/javascript.svg"/>  
-  <img width="50px"  src="./assets/typescript.svg"/>  
-  <img width="50px"  src="./assets/react.svg"/>    
-  <img width="50px"  src="./assets/styledcomponent.svg"/>  
-  <img width="50px"  src="./assets/sass.svg"/>  
+  <img width="30px"  src="./assets/figma.svg"/>  
+  <img width="30px"  src="./assets/netlify.svg"/>  
+  <img width="30px"  src="./assets/javascript.svg"/>  
+  <img width="30px"  src="./assets/typescript.svg"/>  
+  <img width="30px"  src="./assets/react.svg"/>    
+  <img width="30px"  src="./assets/styledcomponent.svg"/>  
+  <img width="30px"  src="./assets/sass.svg"/>  
   
   
 
@@ -32,11 +33,12 @@
 
 
 ## Worked
-  <img width="50px"  src="./assets/delphi.svg"/>  
-  <img width="50px"  src="./assets/git.svg"/>  
-  <img width="50px"  src="./assets/atlassianjira.svg"/>  
-  <img width="50px"  src="./assets/atlassianbitbucket.svg"/>  
-  
+<div style="display: inline_block">
+  <img width="30px"  src="./assets/delphi.svg"/>  
+  <img width="30px"  src="./assets/git.svg"/>  
+  <img width="30px"  src="./assets/atlassianjira.svg"/>  
+  <img width="30px"  src="./assets/atlassianbitbucket.svg"/>  
+</div>  
 
 ## Statatics
 <div>
