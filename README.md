@@ -1,6 +1,10 @@
-# About Me :copyright::registered:
+# About Me :copyright: :registered:
 
-Olá meu nome é Christian Cesar, estou terminando o curso de graduação de Bacharelado  Sistemas de Informação na UFMT/UFR. Trabalhei 1 ano e meio como desenvolvedor com as stacks listadas da seção [worked](#worked) e a 2 anos estou [estudando e desenvolvendo](#studying-and-developing) projetos pessoais e bootcamps nas stacks abaixo.
+Olá meu nome é Christian Cesar, estou terminando o curso de graduação de Bacharelado  Sistemas de Informação na UFMT/UFR. Trabalhei 1 ano e meio como desenvolvedor com as stacks listadas da seção [worked](#worked) e a 2 anos estou [estudando e desenvolvendo](#studying-and-developing) projetos webs pessoais e bootcamps nas stacks abaixo.
+
+Nível de inglês: **A**
+
+Iniciei em 2020 o curso de inglês na [WiseUp](https://wiseup.com/), porém suspendi por conta da pandemia, tenho intenção de voltar a estudar quando voltar presencial. :grin:
 
 <div align="center" style="display: flex;">
   
@@ -50,6 +54,7 @@ Olá meu nome é Christian Cesar, estou terminando o curso de graduação de Bac
 
 ---
 ## Worked :beginner:
+
 <div style="display: inline_block">
   <img width="30px"  src="./assets/delphi.svg"/>  
   <img width="30px"  src="./assets/git.svg"/>  
