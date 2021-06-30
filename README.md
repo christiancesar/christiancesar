@@ -15,7 +15,7 @@ Iniciei em 2020 o curso de inglês na [WiseUp](https://wiseup.com/), porém susp
 <div align="center" style="display: flex;">
   <a href="https://www.linkedin.com/in/christian-cesar-rodrigues-78240696/" target="_blank">LinkedIn </a> |
   <a href="https://www.figma.com/@christiancesar" target="_blank">Projects Figma </a>|
-  <a href="https://copyrights.netlify.app/" target="_blank">My website</a>
+  <a href="https://copyrights.tech/" target="_blank">My website</a>
 
 </div>
 
