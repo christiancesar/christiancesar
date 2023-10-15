@@ -1,6 +1,6 @@
 # Hello, I'm Christian Cesar :vulcan_salute:
 
-I am 23 years old, studying Information Systems at the Federal University of Mato Grosso.
+I am 26 years old, studying Information Systems at the Federal University of Mato Grosso.
 
 I'm currently studying frontend and backend with Javascript  <img height="25rem" src="https://iconsplace.com/wp-content/uploads/_icons/ffe500/256/png/js-icon-19-256.png" />
 
