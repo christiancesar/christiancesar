@@ -4,7 +4,7 @@ Passionate about development, currently studying and building frontend and backe
 
 Explore my repositories and see what I've been poking around. :compass: 
 
-<img height="579rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=@christiancesar&theme=react&layout=compact"/>
+<img height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@christiancesar&theme=react&layout=compact"/>
 
 
 
